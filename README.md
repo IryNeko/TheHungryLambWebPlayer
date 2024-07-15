@@ -1,4 +1,4 @@
-# 《饿殍：明末千里行》脚本播放器 The Hungry Lamb Script Web Player
+# 《饿殍：明末千里行》AI 辅助制造机
 
 见 [cmd.txt](tools/cmd.txt)
 
