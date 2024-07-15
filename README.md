@@ -1,13 +1,5 @@
 # 《饿殍：明末千里行》脚本播放器 The Hungry Lamb Script Web Player
 
-## Demo
-
-[《穗的梦》邂逅 ](https://zzzzzzzskyward.github.io/TheHungryLambWebPlayer/?command=play&file=works/dream/%E7%A9%97%E7%9A%84%E6%A2%A6.json)
-
-[《假如满穗加入了闯军》莫莫莫里哀 ](https://zzzzzzzskyward.github.io/TheHungryLambWebPlayer/?command=play&file=works/cj/cj.json)
-
-## 文档
-
 见 [cmd.txt](tools/cmd.txt)
 
 ## 工具
